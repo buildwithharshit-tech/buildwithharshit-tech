@@ -66,7 +66,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=buildwithharshit-tech&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=buildwithharshit-tech&theme=tokyonight&no-frame=true&row=1&column=7](https://github-readme-stats.vercel.app/api?username=buildwithharshit-tech&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
