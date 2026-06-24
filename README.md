@@ -94,7 +94,7 @@ Compare products and analyze pricing across platforms.
 <p align="center">
 <a href="https://www.linkedin.com/in/harshit-tripathi-2b0ab027b">LinkedIn</a> •
 <a href="https://github.com/buildwithharshit-tech">GitHub</a> •
-<a href="https://buildwithharshit-tech.github.io/My-Portfolio/">Portfolio</a>
+<a href="https://harshittripathi.vercel.app/">Portfolio</a>
 </p>
 
 ---
